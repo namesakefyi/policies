@@ -1,31 +1,8 @@
----
-title: Privacy policy
-description: The privacy of your data—and it is your data, not ours!—is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
----
+# Privacy Policy
 
-# Privacy policy
-
-*Last updated: December 11, 2024*
+**Last updated: December 12, 2024**
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
-
-This policy is split into sections. For your convenience, links to each of those sections is as follows:
-
-- [Privacy policy](#privacy-policy)
-  - [What we collect and why](#what-we-collect-and-why)
-    - [Identity and access](#identity-and-access)
-    - [Product interactions](#product-interactions)
-    - [General geolocation data](#general-geolocation-data)
-    - [Website interactions](#website-interactions)
-    - [Cookies](#cookies)
-    - [Voluntary correspondence](#voluntary-correspondence)
-  - [When we access or disclose your information](#when-we-access-or-disclose-your-information)
-  - [Your rights with respect to your information](#your-rights-with-respect-to-your-information)
-  - [How we secure your data](#how-we-secure-your-data)
-  - [What happens when you delete content in your product accounts](#what-happens-when-you-delete-content-in-your-product-accounts)
-  - [Data retention](#data-retention)
-  - [Location of site and data](#location-of-site-and-data)
-  - [Changes and questions](#changes-and-questions)
 
 This policy applies to all products built and maintained by Namesake Collaborative LLC.
 
@@ -65,13 +42,13 @@ We also store information you may volunteer, for example, written responses to s
 
 ## When we access or disclose your information
 
-**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the [third-party subprocessors we use](../privacy/subprocessors/index.md) for Namesake. We also use third-party processors for other business functions such as managing newsletter subscriptions. 
+**To provide products or services you’ve requested**. We use some third-party subprocessors to help run our application and provide the Services to you. You can view the [third-party subprocessors we use](https://namesake.fyi/subprocessors) for Namesake. We also use third-party processors for other business functions such as managing newsletter subscriptions. 
 
 No Namesake human looks at your data except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring.
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](../abuse/index.md).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary.
+**To investigate, prevent, or take action regarding [restricted uses](https://namesake.fyi/abuse).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary.
 
 ## Your rights with respect to your information
 

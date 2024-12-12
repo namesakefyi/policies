@@ -1,11 +1,6 @@
----
-title: Namesake Subprocessors
-description: All the third-party subprocessors that we use to run Namesake.
----
+# Namesake Subprocessors
 
-# Namesake subprocessors
-
-*Last updated: December 11, 2024*
+**Last updated: December 12, 2024**
 
 We use third party subprocessors, such as cloud computing providers and customer support software, to run Namesake (the service).
 

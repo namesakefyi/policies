@@ -1,9 +1,4 @@
----
-title: Use Restrictions Policy
-description: It is not okay to use Namesake for these restricted purposes.
----
-
-# Use Restrictions
+# Restricted Use Policy
 
 ## Restricted purposes
 
