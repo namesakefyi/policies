@@ -75,7 +75,7 @@ No Namesake human looks at your data except for limited purposes with your expre
 
 ## Your rights with respect to your information
 
-At 37signals, we strive to apply the same data rights to all customers, regardless of their location. Some of these rights include:
+At Namesake, we strive to apply the same data rights to all customers, regardless of their location. Some of these rights include:
 
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
